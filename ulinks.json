@@ -1,0 +1,14 @@
+[
+    {
+        "Operation" : "Add", "URL":"https://www.youtube.com/results?search_query=mental+math+addition"
+    },
+    {
+        "Operation" : "Subtract", "URL":"https://www.youtube.com/results?search_query=mental+math+subtraction"
+    },
+    {
+        "Operation" : "Multiply", "URL":"https://www.youtube.com/results?search_query=mental+math+multiplication"
+    },
+    {
+        "Operation" : "Divide", "URL":"https://www.youtube.com/results?search_query=mental+math+division"
+    }
+]
