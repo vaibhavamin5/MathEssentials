@@ -1,0 +1,32 @@
+[
+    {
+        "TipId" : 1, "Title": "Practice Multiplication - Setup for table 12", "Description":["Set the level to custom.","Set the Min and Max range to 12.","Set the Min range to 0 and Max range to 10."], "ImageURL":"https://mathessentials.blob.core.windows.net/images/Table12.png"
+    },
+    {
+    "TipId" : 2, "Title": "Multiplication - Setup range of tables", "Description":["Set the level to custom","Set the Min range to 5 and Max range to 10.","Set the Min range to 0 and Max range to 10."], "ImageURL":"https://mathessentials.blob.core.windows.net/images/Table5To10.png"
+    },
+    {
+    "TipId" : 3, "Title": "Add Remove Rows", "Description":["Tap the Minus icon if you like to remove the last row.","Tap on a Add Row button to add more rows in a quiz. You can add up to 5 rows."], "ImageURL":"https://mathessentials.blob.core.windows.net/images/PlusMinusRows.png"
+    },
+    {
+    "TipId" : 4, "Title": "Choose levels", "Description":["Swipe up and down to choose between levels."], "ImageURL":"https://mathessentials.blob.core.windows.net/images/LevelUpAndDown.png"
+    },
+    {
+    "TipId" : 5, "Title": "Quiz Options", "Description":["Swipe to adjust the speed. Slow(36 sec.), Meduium(24 sec.), Fast(12 sec.), None to answer without any time limit.","If Audio is On, then app will hide the quiz and isntead will you device speaker to ask a quiz.","If Timer state is Off then app will hide the circular timer. But it will not change the time limit to answer the quiz.","if Auto. Next is enabled then app will not stop between quizes."], "ImageURL":"https://mathessentials.blob.core.windows.net/images/Options.png"
+    },
+    {
+    "TipId" : 6, "Title": "When answer is incorrect", "Description":["You can check to see the correct answer.","You can retake the quiz. It will not make any difference in scoring if you get it right during the retake.","Move to next quiz."], "ImageURL":"https://mathessentials.blob.core.windows.net/images/QuizFinishedIncorrect.png"
+    },
+    {
+    "TipId" : 7, "Title": "Scores in detail", "Description":["Review your answers."], "ImageURL":"https://mathessentials.blob.core.windows.net/images/ScoreDetail.png"
+    },
+    {
+    "TipId" : 8, "Title": "Voice To Text", "Description":["Speak each number clearely. If the answer of quiz is 355, then instead of saying three hundred and fifty five, say three, five, five.","Tap on a Keyboard icon if you would like to answer it by tapping on numbers"], "ImageURL":"https://mathessentials.blob.core.windows.net/images/VoiceToText.png"
+    },
+    {
+    "TipId" : 9, "Title": "L | R and Back Buttons", "Description" : ["Tap on L | R button to switch between left and right to answer the quiz.","Tap on Back button to remove last entered number."], "ImageURL": "https://mathessentials.blob.core.windows.net/images/LeftRightAndBackKeys.png"
+    },
+    {
+    "TipId" : 10, "Title": "Audio Quiz", "Description":["Tap on a Audio icon to hear the quiz."], "ImageURL":"https://mathessentials.blob.core.windows.net/images/AudioQuestion.png"
+    }
+]
